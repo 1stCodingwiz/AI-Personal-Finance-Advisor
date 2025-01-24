@@ -1,0 +1,14 @@
+Dataset: https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-lstm
+Algorithms: Random Forest, ARIMA, GARCH, SARIMAX
+
+1. Random Forest to predict stock prices or investment trends by analyzing various features like historical prices, trading volumes. It combines 
+many decision trees to make predictions.It’s good at handling large datasets.Ensemble learning
+
+2. ARIMA is a statistical model used for forecasting time series data.ARIMA to predict future stock prices based on past price data.
+
+3. GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model used to estimate the volatility of a time series. 
+It helps in understanding how the variance (risk) of a stock price changes over time.
+Implement GARCH to model and predict the volatility of stocks. This can help in assessing risks.
+
+3. SARIMAX is an extension of ARIMA that includes seasonal effects and allows for external factors (regressors) to be considered.
+Forecast stock prices or financial metrics that have seasonal patterns 
